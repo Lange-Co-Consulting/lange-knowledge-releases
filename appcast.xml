@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Mon, 08 Jun 2026 22:19:20 +0000</pubDate>
+      <sparkle:version>1780957064</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Auto-Updates aktiviert und neuer Knopf „Vault aktualisieren" (lädt die neuesten Inhalte von GitHub).]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.2.0/LangeKnowledge-0.2.0.zip" type="application/octet-stream" sparkle:edSignature="DBCnych91Nx2Bw7iM0T4HvCBul8Myvg9wzwKxh/EJGvpJjri8PMWBroQmftqq5+iT1qFyq5/4IEHLxgDM9NKCQ==" length="7617051" />
+    </item>
+    <item>
       <title>Version 0.1.0</title>
       <pubDate>Mon, 08 Jun 2026 21:43:05 +0000</pubDate>
       <sparkle:version>1780954961</sparkle:version>
