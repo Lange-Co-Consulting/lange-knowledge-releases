@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Version 0.5.2</title>
+      <pubDate>Tue, 09 Jun 2026 10:47:51 +0000</pubDate>
+      <sparkle:version>1781001975</sparkle:version>
+      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Neu: Die Befehlspalette (⌘K) zeigt jetzt bei leerem Suchfeld einen Guide — was du suchen/öffnen kannst (Notizen · Kategorien · Webdesign-Projekte) und welche KI-Aktionen es gibt, plus Tasten-Hinweise. Außerdem ist das KI-Panel lebendiger: Während die KI antwortet, hüpfen drei Punkte auf und ab und das Funkeln-Symbol pulsiert.]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.5.2/LangeKnowledge-0.5.2.zip" type="application/octet-stream" sparkle:edSignature="UNaNcNyyHIHrmcwYgl0z6LYzazL2vM9A6Ro0hgzvO21DvKsPXrgBTdo+Cja29E/3hcLQUHzHMZbq6jdgw5NlCw==" length="8863565" />
+    </item>
+    <item>
       <title>Version 0.5.1</title>
       <pubDate>Tue, 09 Jun 2026 10:43:11 +0000</pubDate>
       <sparkle:version>1781001693</sparkle:version>
