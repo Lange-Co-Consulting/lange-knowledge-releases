@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Aufgeräumtes Design</title>
+      <pubDate>Tue, 09 Jun 2026 11:55:04 +0000</pubDate>
+      <sparkle:version>1781006004</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.7.0 — Aufgeräumtes Design</h2><p style="margin:13px 0 4px;font-weight:600">Verbessert</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Klareres Hauptfenster: standardmäßig 3 statt 4 Spalten — das »Beziehungen«-Panel ist jetzt zu und per ⋯-Menü einblendbar. Passt sauber auf kleinere Bildschirme.</li><li style="margin:3px 0">Ruhigere Toolbar: nur noch »Fragen«, »Aktualisieren« und ein ⋯-Menü (Befehlspalette, Wochen-Digest, Beziehungen, Wartung). Eine Warn-Glocke erscheint nur, wenn es ungelesene Hinweise gibt.</li><li style="margin:3px 0">Eine klare Navigation: die linke Leiste ist jetzt der einzige Wegweiser — gruppiert in »Beratung« und »Webdesign«. Der obere Umschalter entfällt; den Marken-Filter (Alle/Beratung/Webdesign) findest du jetzt in »Heute«.</li><li style="margin:3px 0">Ruhigere Webdesign-Liste: pro Projekt nur noch Status-Punkt + Name; Details (Antwortzeit, SSL, Tags) und die Aktionen erscheinen beim Drüberfahren.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.7.0/LangeKnowledge-0.7.0.zip" type="application/octet-stream" sparkle:edSignature="IfSKFRmS8JmOVPKqLw8eWQ038nXGSGjl2lSht+XNhdmwIy4PONlfwqjU9sC/S4ZSH/toLcAh/HvfT7YRhWXLDA==" length="8989090" />
+    </item>
+    <item>
       <title>Notizen bearbeiten & Tooltips</title>
       <pubDate>Tue, 09 Jun 2026 11:18:57 +0000</pubDate>
       <sparkle:version>1781003919</sparkle:version>
