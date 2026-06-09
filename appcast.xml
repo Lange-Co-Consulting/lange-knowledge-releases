@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Claude in der App</title>
+      <pubDate>Tue, 09 Jun 2026 22:06:18 +0000</pubDate>
+      <sparkle:version>1781042667</sparkle:version>
+      <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.14.0 — Claude in der App</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Claude direkt in der App: oranger Claude-Knopf in der Symbolleiste (neben »Fragen«). Claude durchsucht den ganzen Vault selbst — Mandate, Marken, Fristen, Leads — und nennt seine Quellen. Läuft über euer Claude-Abo, ohne Zusatzkosten.</li><li style="margin:3px 0">Nur Lesen: Claude kann Notizen ansehen, aber nichts ändern (technisch erzwungen). Folgefragen behalten den Kontext.</li></ul><p style="margin:13px 0 4px;font-weight:600">Voraussetzung</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Claude Code muss auf dem Mac installiert und angemeldet sein (im Terminal: »brew install claude«, dann einmal »claude« starten). Ist es nicht installiert, bleibt der Knopf ausgeblendet.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.14.0/LangeKnowledge-0.14.0.zip" type="application/octet-stream" sparkle:edSignature="28jaRRdgy7SovVQzJ4JdSdhBAfV/BvZJbRw7CcaKUM7kWBgj5lkCSiL9Ud2IcX5X6u9G5vRJlFcPl4eeFUA1Cw==" length="10020398" />
+    </item>
+    <item>
       <title>Vault-Ordner wechselbar</title>
       <pubDate>Tue, 09 Jun 2026 21:35:33 +0000</pubDate>
       <sparkle:version>1781040819</sparkle:version>
