@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Lead-Sync im Team</title>
+      <pubDate>Tue, 09 Jun 2026 18:28:44 +0000</pubDate>
+      <sparkle:version>1781029624</sparkle:version>
+      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.11.0 — Lead-Sync im Team</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Team-Sync für Webdesign-Leads zwischen Lucas und dir — ohne Server, ohne Kosten</li><li style="margin:3px 0">Jede Lead-Karte zeigt »zuletzt: &lt;Name&gt; · &lt;Zeit&gt;« — wer hat zuletzt etwas geändert</li><li style="margin:3px 0">Aktivitäts-Historie pro Lead direkt auf der Karte: »Wer → Was → Wann«</li><li style="margin:3px 0">Sync-Anzeige im Webdesign-Board (synchronisiert ✓ / … / ⚠️ Konflikt) und schnellerer Abgleich, solange das Board offen ist</li><li style="margin:3px 0">Eigener Name für den Team-Sync in den Einstellungen</li></ul><p style="margin:13px 0 4px;font-weight:600">Verbessert</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Gleichzeitige Änderungen an verschiedenen Leads gehen nie mehr verloren — sicheres Zusammenführen statt stillem Fehlschlag</li><li style="margin:3px 0">Echte Konflikte werden sichtbar gemeldet, statt im Hintergrund zu scheitern</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.11.0/LangeKnowledge-0.11.0.zip" type="application/octet-stream" sparkle:edSignature="94sYIahqsNOIxuy+SkOFMZvnFRNRQHothHpt6zMthxpHDekY3JgYJQRukoQoOu+gm7ddUlbSlPaaCJUVCR4ODA==" length="9222157" />
+    </item>
+    <item>
       <title>Im Fokus auf Heute</title>
       <pubDate>Tue, 09 Jun 2026 17:16:03 +0000</pubDate>
       <sparkle:version>1781025260</sparkle:version>
