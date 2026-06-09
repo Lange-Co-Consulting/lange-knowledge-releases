@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Version 0.5.0</title>
+      <pubDate>Tue, 09 Jun 2026 09:44:39 +0000</pubDate>
+      <sparkle:version>1780998180</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Neu in 0.5.0: Mandanten-Cockpit (Client 360), Befehlspalette (⌘K), Projekt-Health für Webdesign-Seiten (Erreichbarkeit, Antwortzeit, SSL-Restlaufzeit), Wochen-Digest (Montags-Briefing), Wartungs-/Diagnose-Panel mit sichtbaren Warnungen statt stiller Fehler, Agent-Aktions-Bibliothek (Briefing, E-Mail, Zusammenfassung, Risiko-Check, Nächste Schritte), Protokoll → Action-Items aus Gesprächsnotizen und ein optionaler lokaler Ollama-Pfad für vertrauliche Inhalte. Außerdem: gelöschte Notizen werden beim Einlesen sauber aus dem Index entfernt (keine Geister-Einträge mehr); Webdesign-Header und Lead-Archivierung korrigiert.]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.5.0/LangeKnowledge-0.5.0.zip" type="application/octet-stream" sparkle:edSignature="5p4q3cQwfcUH+XzjQD2riK5Rrio+UMuv5A59arvTtWXrEEzALxrZphti2i5Nhj+HJwLA5TTWVL0TVCD2a/96Dw==" length="8816836" />
+    </item>
+    <item>
       <title>Version 0.4.0</title>
       <pubDate>Tue, 09 Jun 2026 07:13:48 +0000</pubDate>
       <sparkle:version>1780989065</sparkle:version>
