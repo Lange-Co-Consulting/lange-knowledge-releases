@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Fristen · Dokumente · Zeitmaschine</title>
+      <pubDate>Tue, 09 Jun 2026 19:34:45 +0000</pubDate>
+      <sparkle:version>1781033577</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.12.0 — Fristen · Dokumente · Zeitmaschine</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Fristen-Cockpit: Notizen mit »deadline:« (oder »frist:«) erscheinen auf Heute — überfällige zuerst, rot bzw. orange unter 14 Tagen. Pro Frist auf Wunsch ein Kalendereintrag mit Erinnerung einen Tag vorher.</li><li style="margin:3px 0">Dokumenten-Einlesen: PDF, Text, Markdown oder E-Mail per Drag &amp; Drop oder »Datei wählen« (Seitenleiste). Die lokale KI fasst zusammen und schlägt eine Notiz vor — du bestätigst, dann landet sie im Vault. Alles offline und vertraulich.</li><li style="margin:3px 0">Vault-Zeitmaschine: Jede Notiz hat jetzt einen »Verlauf«-Button — alte Stände ansehen, Änderungen vergleichen und eine frühere Version wiederherstellen. Additiv: nichts geht verloren.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.12.0/LangeKnowledge-0.12.0.zip" type="application/octet-stream" sparkle:edSignature="QGZZazFtZsAIal4cmjroVVsl6h/ccVYKORZWjLbr+LRR3xLJkfZw8aRP4zGPoJitB7uaKKZuaKpSvPSZr7sGDQ==" length="9524283" />
+    </item>
+    <item>
       <title>Lead-Sync im Team</title>
       <pubDate>Tue, 09 Jun 2026 18:28:44 +0000</pubDate>
       <sparkle:version>1781029624</sparkle:version>
