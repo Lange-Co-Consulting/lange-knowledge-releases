@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Notizen bearbeiten & Tooltips</title>
+      <pubDate>Tue, 09 Jun 2026 11:18:57 +0000</pubDate>
+      <sparkle:version>1781003919</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.6.0 — Notizen bearbeiten &amp; Tooltips</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Notizen direkt in der App bearbeiten: im Detail-Bereich auf »Bearbeiten« — Titel, Status, Felder (Rolle/E-Mail/Telefon/Adresse/Website/Beschreibung) und der Fließtext werden änderbar, »Speichern« schreibt in die Vault-Datei und synchronisiert.</li><li style="margin:3px 0">Befehlspalette (⌘K) mit Guide: schnell zu Notizen, Kategorien und Webdesign-Projekten springen oder KI-Aktionen starten.</li></ul><p style="margin:13px 0 4px;font-weight:600">Verbessert</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Hover-Tooltips erklären Abkürzungen: »vor 7 T« → »vor 7 Tagen«, »SSL: 81 T« → Zertifikats-Restlaufzeit, »167 ms« → Antwortzeit; dazu Status-Kürzel und Icon-Buttons.</li><li style="margin:3px 0">Das KI-Panel ist lebendiger: beim Antworten hüpfen drei Punkte und das Symbol pulsiert.</li><li style="margin:3px 0">Kleine Status-Chips brechen nicht mehr mitten im Wort um.</li></ul><p style="margin:13px 0 4px;font-weight:600">Behoben</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Auf 13&quot;-Displays wurde das Fenster mit offenem »Beziehungen«-Panel rechts abgeschnitten — passt jetzt auf den Bildschirm.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.6.0/LangeKnowledge-0.6.0.zip" type="application/octet-stream" sparkle:edSignature="w56cE4qJULUOYyvHtYSSyP6PeRbDcNDLQS+k7bisQGVM1ChjqkWl8iiCs/60xoSXVunSEKq8LuqcQheJPQ8tDg==" length="8983160" />
+    </item>
+    <item>
       <title>Version 0.5.2</title>
       <pubDate>Tue, 09 Jun 2026 10:47:51 +0000</pubDate>
       <sparkle:version>1781001975</sparkle:version>
