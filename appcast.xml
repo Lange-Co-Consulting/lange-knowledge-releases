@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Im Fokus auf Heute</title>
+      <pubDate>Tue, 09 Jun 2026 17:16:03 +0000</pubDate>
+      <sparkle:version>1781025260</sparkle:version>
+      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.10.0 — Im Fokus auf Heute</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">„Im Fokus&quot; auf der Heute-Seite: Notizen, die du anpinnst (Frontmatter pin: true), erscheinen ganz oben mit ihrem aktuellen Stand-Satz (focus:) und Status. Risiken werden hervorgehoben.</li><li style="margin:3px 0">Der Stand aktualisiert sich automatisch — änderst du die Notiz, ändert sich Heute mit.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.10.0/LangeKnowledge-0.10.0.zip" type="application/octet-stream" sparkle:edSignature="z7hBJAP0RbAVquKukECkAHI/tSQiomsFuMgQrJujq0mk2JD2U02fHiu0odZlG4og2x0x3ziq4OZZ8Bds72oiCg==" length="9139898" />
+    </item>
+    <item>
       <title>Kleiner Feinschliff</title>
       <pubDate>Tue, 09 Jun 2026 16:28:55 +0000</pubDate>
       <sparkle:version>1781022483</sparkle:version>
