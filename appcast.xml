@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Politur, Bilder &amp; mehr</title>
+      <pubDate>Tue, 09 Jun 2026 13:09:03 +0000</pubDate>
+      <sparkle:version>1781010450</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.8.0 — Politur, Bilder &amp; mehr</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Bilder direkt in Notizen anzeigen — Markenvisualisierungen, Screenshots &amp; Co. erscheinen jetzt inline (auch Obsidian-Einbettungen). Sicher: nur lokale Dateien neben der Notiz, nichts aus dem Netz.</li><li style="margin:3px 0">Lokale Dateien per Klick öffnen — z. B. ein verlinktes PDF im selben Ordner.</li><li style="margin:3px 0">Schnellaktionen auf „Braucht Aufmerksamkeit&quot; (Rechtsklick): öffnen, Briefing, auf erledigt setzen.</li><li style="margin:3px 0">Suche mit Filter: Alle · Beratung · Webdesign.</li><li style="margin:3px 0">Pfeiltasten-Navigation in den Listen.</li></ul><p style="margin:13px 0 4px;font-weight:600">Verbessert</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Fenstertitel zeigt jetzt den Bereich (statt immer „Verbindungen&quot;).</li><li style="margin:3px 0">Status durchgehend auf Deutsch (aktiv, archiviert, abgeschlossen …) mit ruhigeren Farben.</li><li style="margin:3px 0">Korrektes Deutsch bei Zählern („1 Aktives Mandat&quot;).</li><li style="margin:3px 0">Aufgeräumtere Seitenleiste: wichtige Kategorien oben, der Rest unter „Mehr&quot; eingeklappt.</li><li style="margin:3px 0">„Braucht Aufmerksamkeit&quot; ohne LUCC-Rauschen; Webdesign-Projekte ohne Analytics-Einträge.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.8.0/LangeKnowledge-0.8.0.zip" type="application/octet-stream" sparkle:edSignature="2GiLkpH0ffEugy8RuURG9MGP4YP5lBJosgwA31mdTrpu7rIuMD02jF8hC5Gl0ut3uVq5fCyirXFZ6XIM8smPBA==" length="9052312" />
+    </item>
+    <item>
       <title>Aufgeräumtes Design</title>
       <pubDate>Tue, 09 Jun 2026 11:55:04 +0000</pubDate>
       <sparkle:version>1781006004</sparkle:version>
