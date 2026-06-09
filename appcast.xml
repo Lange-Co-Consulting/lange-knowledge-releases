@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Einsprechen &amp; Bearbeiten überall</title>
+      <pubDate>Tue, 09 Jun 2026 21:27:07 +0000</pubDate>
+      <sparkle:version>1781040331</sparkle:version>
+      <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.13.0 — Einsprechen &amp; Bearbeiten überall</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Einsprechen: Sprachnotizen direkt in die App diktieren (Seitenleiste → Mikrofon). Live-Transkript während du sprichst — die Erkennung läuft komplett auf deinem Mac, nichts geht in die Cloud. Die lokale KI zieht Titel, Kernpunkte und Tags heraus; du bestätigst und speicherst als neue Notiz oder hängst es an eine bestehende an.</li><li style="margin:3px 0">Bearbeiten überall: Jede Notiz lässt sich jetzt von jeder Seite aus bearbeiten — Rechtsklick auf Heute, im Webdesign-Board, bei LUCC und in den Listen, plus Button im Cockpit. Änderungen landen im Vault und erscheinen automatisch bei Lucas.</li></ul><p style="margin:13px 0 4px;font-weight:600">Verbessert</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Beim Einsprechen geht dein Transkript in keinem Fehlerfall verloren — es bleibt sichtbar und kopierbar, bis das Speichern bestätigt ist.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.13.0/LangeKnowledge-0.13.0.zip" type="application/octet-stream" sparkle:edSignature="McxmncHICOVCOMCEqEjybo3SuUJ5ej7jbWSb3KzJdgHtX0auaNsYffKr1wy53l/ODI8MV6pyo6jiub+KNU5GCA==" length="9843563" />
+    </item>
+    <item>
       <title>Fristen · Dokumente · Zeitmaschine</title>
       <pubDate>Tue, 09 Jun 2026 19:34:45 +0000</pubDate>
       <sparkle:version>1781033577</sparkle:version>
