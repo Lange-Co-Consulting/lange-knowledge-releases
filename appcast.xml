@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Version 0.5.3</title>
+      <pubDate>Tue, 09 Jun 2026 11:11:23 +0000</pubDate>
+      <sparkle:version>1781003380</sparkle:version>
+      <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Neu: Notizen lassen sich jetzt direkt in der App bearbeiten — im Detail-Bereich auf »Bearbeiten« tippen und Titel, Status, die Felder (Rolle/E-Mail/Telefon/Adresse/Website/Beschreibung) und den Fließtext ändern, dann »Speichern«. Die Änderung wird in die Vault-Datei geschrieben, neu eingelesen und synchronisiert. Außerdem: Hover-Tooltips (kleine Apple-Boxen) erklären abgekürzte Angaben wie »vor 7 T«, »SSL: 81 T« oder »167 ms« und die Status-Kürzel; kleine Chips brechen nicht mehr mitten im Wort um.]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.5.3/LangeKnowledge-0.5.3.zip" type="application/octet-stream" sparkle:edSignature="nOWNBJKGeYE0oTwJ0m91Lg0CEGoL7Bk/BejqhGdqGVw1oI2yJEOfuJI9Puhe2C6SZApMxBXpbtB1V23GULK1CQ==" length="8983158" />
+    </item>
+    <item>
       <title>Version 0.5.2</title>
       <pubDate>Tue, 09 Jun 2026 10:47:51 +0000</pubDate>
       <sparkle:version>1781001975</sparkle:version>
