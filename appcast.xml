@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Version 0.5.1</title>
+      <pubDate>Tue, 09 Jun 2026 10:43:11 +0000</pubDate>
+      <sparkle:version>1781001693</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fix: Bei geöffnetem rechten »Beziehungen«-Panel auf kleineren (13") Displays wurde das Fenster breiter als der Bildschirm und der linke Rand abgeschnitten. Spalten- und Inspektor-Mindestbreiten verkleinert, sodass alle vier Bereiche (Seitenleiste · Liste · Vorschau · Beziehungen) zusammen auf den Bildschirm passen.]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.5.1/LangeKnowledge-0.5.1.zip" type="application/octet-stream" sparkle:edSignature="5OHG5Q47pxOyMHlnUqVETzOj7LjWrgDp/YiN9mXOj/0TR+ig0X2IlJ26LkAoynyUm7PVKlwtnxcXmnJQY5sVAg==" length="8816612" />
+    </item>
+    <item>
       <title>Version 0.5.0</title>
       <pubDate>Tue, 09 Jun 2026 09:44:39 +0000</pubDate>
       <sparkle:version>1780998180</sparkle:version>
