@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>LUCC-Bereich</title>
+      <pubDate>Tue, 09 Jun 2026 13:36:47 +0000</pubDate>
+      <sparkle:version>1781012111</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.9.0 — LUCC-Bereich</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Eigener LUCC-Bereich: lucc-media ist jetzt ein vollwertiger Bereich neben Beratung und Webdesign — mit eigener Übersicht (alle LUCC-Einträge nach Kategorie gruppiert).</li><li style="margin:3px 0">Alles nach Marke sortiert: In der Seitenleiste landen LUCC-Inhalte unter LUCC, Webdesign unter Webdesign, der Rest unter Beratung.</li><li style="margin:3px 0">„Heute&quot;-Filter und Suche kennen jetzt vier Bereiche: Alle · Beratung · Webdesign · LUCC.</li></ul><p style="margin:13px 0 4px;font-weight:600">Verbessert</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">LUCC erscheint im allgemeinen Dashboard weiterhin ruhig im Hintergrund, im LUCC-Bereich dafür vollständig.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.9.0/LangeKnowledge-0.9.0.zip" type="application/octet-stream" sparkle:edSignature="L/gc2G1Z4M4FyDO5d0UtmtETWvx0dp1U8ySBRGaszynZhWglhbC3oMhFmNI4CAJ0Yeo9oKn3wID8enDvc00hBw==" length="9106362" />
+    </item>
+    <item>
       <title>Politur, Bilder &amp; mehr</title>
       <pubDate>Tue, 09 Jun 2026 13:09:03 +0000</pubDate>
       <sparkle:version>1781010450</sparkle:version>
