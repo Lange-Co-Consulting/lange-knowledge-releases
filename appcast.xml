@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Vault-Ordner wechselbar</title>
+      <pubDate>Tue, 09 Jun 2026 21:35:33 +0000</pubDate>
+      <sparkle:version>1781040819</sparkle:version>
+      <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.13.1 — Vault-Ordner wechselbar</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Wartung: Der verbundene Vault-Ordner wird angezeigt und lässt sich jetzt direkt ändern — praktisch, wenn beim ersten Start der falsche Ordner gewählt wurde. Nach der Auswahl liest die App automatisch neu ein, ohne Neustart.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.13.1/LangeKnowledge-0.13.1.zip" type="application/octet-stream" sparkle:edSignature="4y7aoYDwm+ze8r5w8F4xN+Lp1vqexPVblCsvbBcyMhM9+fxkvkT77XsYqwBdTTwM5zhU7QRCphvfY4p/AECcCA==" length="9858604" />
+    </item>
+    <item>
       <title>Einsprechen &amp; Bearbeiten überall</title>
       <pubDate>Tue, 09 Jun 2026 21:27:07 +0000</pubDate>
       <sparkle:version>1781040331</sparkle:version>
