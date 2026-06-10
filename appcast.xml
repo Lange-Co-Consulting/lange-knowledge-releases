@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Update-Banner &amp; Claude-Bearbeiten</title>
+      <pubDate>Wed, 10 Jun 2026 09:04:57 +0000</pubDate>
+      <sparkle:version>1781082252</sparkle:version>
+      <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.15.0 — Update-Banner &amp; Claude-Bearbeiten</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Update-Banner: Eine neue Version erscheint jetzt direkt oben in der App — ein Klick auf „Jetzt installieren&quot; genügt. Kein Weg mehr über das Menü.</li><li style="margin:3px 0">Claude kann jetzt Notizen bearbeiten: Im Claude-Panel gibt es einen „Bearbeiten&quot;-Schalter. Nur auf ausdrückliche Anweisung, nur innerhalb des Vaults, jede Änderung über den Verlauf rückholbar.</li></ul><p style="margin:13px 0 4px;font-weight:600">Verbessert</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Claude-Knopf in der Symbolleiste und das Panel-Layout optisch verfeinert.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.15.0/LangeKnowledge-0.15.0.zip" type="application/octet-stream" sparkle:edSignature="2jmEmyrw9x76pEZBUu2Hr5tDMa6qkE22BTwPjje2EpPysgqZHJt7kOLpT7C14WvfKWYfN7SHBBxP15EKrkcTCw==" length="10068358" />
+    </item>
+    <item>
       <title>Claude in der App</title>
       <pubDate>Tue, 09 Jun 2026 22:06:18 +0000</pubDate>
       <sparkle:version>1781042667</sparkle:version>
