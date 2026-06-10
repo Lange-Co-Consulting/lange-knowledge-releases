@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Sync-Inspektor, Fristen-Erkennung &amp; Claude-Notizen</title>
+      <pubDate>Wed, 10 Jun 2026 16:34:22 +0000</pubDate>
+      <sparkle:version>1781109178</sparkle:version>
+      <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.16.0 — Sync-Inspektor, Fristen-Erkennung &amp; Claude-Notizen</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Sync-Inspektor + Handy-Wächter: In »Wartung« seht ihr jetzt, ob GitHub Neues hat, wer zuletzt was committet hat (Emil/Lucas/Handy) — und das Dashboard warnt, wenn ein neuer Stand zum Abholen bereitliegt.</li><li style="margin:3px 0">Gefundene Fristen: Die App erkennt Fristen im Notiztext (»Frist 23.06«, »bis zum 15.07.«) und schlägt sie zur Übernahme ins Fristen-Cockpit vor — ein Klick, fertig.</li><li style="margin:3px 0">Claude zu dieser Notiz fragen: Auf jeder Notiz ein Knopf (und im Rechtsklick-Menü), der Claude mit genau dieser Notiz öffnet — mit Schnellaktionen wie »Zusammenfassen« oder »Mandanten-Mail entwerfen«.</li></ul><p style="margin:13px 0 4px;font-weight:600">Verbessert</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Claude läuft jetzt in einem eigenen Fenster (⌘⇧C) — parallel zur App nutzbar.</li><li style="margin:3px 0">Suchergebnisse zeigen die Fundstelle im Text mit markiertem Treffer.</li><li style="margin:3px 0">Fristen ≤ 7 Tage kommen als macOS-Mitteilung.</li><li style="margin:3px 0">App-Start hängt nicht mehr, falls eine einzelne Notiz (z. B. durch iCloud) kurz nicht lesbar ist.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.16.0/LangeKnowledge-0.16.0.zip" type="application/octet-stream" sparkle:edSignature="M6q4MYVqC6FfkJFJyqd42InY3SYcLpGttissTP5zMU4QcE2c0jUUngKR2jTAD4jLoYCpjqlz+6ID0UttIgpWBg==" length="10372080" />
+    </item>
+    <item>
       <title>Update-Banner &amp; Claude-Bearbeiten</title>
       <pubDate>Wed, 10 Jun 2026 09:04:57 +0000</pubDate>
       <sparkle:version>1781082252</sparkle:version>
