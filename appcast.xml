@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>PWA-Alltagspakete + Push-Benachrichtigungen</title>
+      <pubDate>Thu, 11 Jun 2026 17:44:51 +0000</pubDate>
+      <sparkle:version>1781199869</sparkle:version>
+      <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.23.0 — PWA-Alltagspakete + Push-Benachrichtigungen</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">PWA natives Mobile-UI mit iOS-Tab-Bar und Touch-Navigation</li><li style="margin:3px 0">Auto-Refresh-Pipeline: PWA aktualisiert sich selbst via Frische-Banner</li><li style="margin:3px 0">Face-ID-Entsperrung: biometrischer Schnellzugriff auf die verschlüsselten Daten</li><li style="margin:3px 0">Quick-Capture: Neue Notizen direkt vom iPhone im Vault speichern</li><li style="margin:3px 0">Push-Benachrichtigungen: tägliche Fristen-Erinnerungen aufs iPhone</li><li style="margin:3px 0">Einstellungen-Sheet mit Bio- und Push-Toggle</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.23.0/LangeKnowledge-0.23.0.zip" type="application/octet-stream" sparkle:edSignature="0m4q4X7qgdUFngpZxvWCjFJDBsUmsBvdSvuxdrrGzcGn0iNVkX5SOQIvvQpeWFiWmjM377BM8nfSrHzxAIWVDA==" length="11017702" />
+    </item>
+    <item>
       <title>Home-Startbildschirm: voll, anordnen &amp; mehr Kacheln</title>
       <pubDate>Thu, 11 Jun 2026 06:47:08 +0000</pubDate>
       <sparkle:version>1781160264</sparkle:version>
