@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Home-Startbildschirm: voll, anordnen &amp; mehr Kacheln</title>
+      <pubDate>Thu, 11 Jun 2026 06:47:08 +0000</pubDate>
+      <sparkle:version>1781160264</sparkle:version>
+      <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.22.0 — Home-Startbildschirm: voll, anordnen &amp; mehr Kacheln</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Home ist jetzt ein vollflächiger Startbildschirm — nur die Kacheln, ohne die alte Einträge-Spalte rechts.</li><li style="margin:3px 0">Kacheln anordnen wie auf dem iPhone: gezogene Kachel hebt ab, die anderen ordnen sich automatisch und animiert um.</li><li style="margin:3px 0">Mehr Kachel-Optionen wählbar: Zuletzt geändert, Braucht Aufmerksamkeit, Mandanten, Verträge, Personen, Entscheidungen.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.22.0/LangeKnowledge-0.22.0.zip" type="application/octet-stream" sparkle:edSignature="bhbB0GS4AOgNxQNCWrMZjgkzq5WamtHQpSvl4eWfVUHqQGkdvemZi9iqflvt5AhVdbl2qKkgjy7o9CvyUdzQAA==" length="11017701" />
+    </item>
+    <item>
       <title>Fristen sichtbar &amp; schnellerer Start</title>
       <pubDate>Thu, 11 Jun 2026 05:49:05 +0000</pubDate>
       <sparkle:version>1781156786</sparkle:version>
