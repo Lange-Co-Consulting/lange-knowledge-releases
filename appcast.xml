@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Home-Start &amp; klarer Graph</title>
+      <pubDate>Thu, 11 Jun 2026 05:16:39 +0000</pubDate>
+      <sparkle:version>1781154843</sparkle:version>
+      <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.21.0 — Home-Start &amp; klarer Graph</h2><p style="margin:13px 0 4px;font-weight:600">Neu</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Home-Startbildschirm: anpassbare Kacheln (Heute, Beratung, Fristen, Webdesign, LUCC, Im Fokus) mit Schatten — verschiebbar, entfernbar, wieder hinzufügbar. Die Anordnung wird pro Person gespeichert.</li></ul><p style="margin:13px 0 4px;font-weight:600">Verbessert</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Verbindungs-Graph komplett überarbeitet: ruhige Konstellation mit farbcodierten Punkten, Hover-Namen und Tippen-zum-Öffnen — sauber, ohne Überlappungen.</li><li style="margin:3px 0">Notiz-Verbindungen jetzt korrekt: der Graph wird aus dem vollständigen Wiki gebaut (vorher konnten iCloud-übersprungene Dateien Verbindungen leeren oder verfälschen).</li></ul><p style="margin:13px 0 4px;font-weight:600">Behoben</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">App startet sofort: zeigt den gespeicherten Stand direkt an und gleicht im Hintergrund mit der Platte ab, statt am Ladebildschirm zu hängen.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.21.0/LangeKnowledge-0.21.0.zip" type="application/octet-stream" sparkle:edSignature="WduxV/36We6Rr9qQ0DiakHfeiMGt7n2/3qiHBgtYLbedOvnqk2DQxcCA6Vw2zdnOAFLH50Rckc30VwoVRr7fAw==" length="10993134" />
+    </item>
+    <item>
       <title>Stabilität, Sicherheit &amp; Bedienkomfort</title>
       <pubDate>Wed, 10 Jun 2026 21:28:02 +0000</pubDate>
       <sparkle:version>1781126782</sparkle:version>
