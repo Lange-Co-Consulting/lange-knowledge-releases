@@ -5,6 +5,15 @@
     <description>App-Updates</description>
     <language>de</language>
     <item>
+      <title>Fristen sichtbar &amp; schnellerer Start</title>
+      <pubDate>Thu, 11 Jun 2026 05:49:05 +0000</pubDate>
+      <sparkle:version>1781156786</sparkle:version>
+      <sparkle:shortVersionString>0.21.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<div style="font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:13px;line-height:1.55;color:#1d1d1f"><h2 style="font-size:16px;font-weight:600;margin:0 0 10px">Version 0.21.1 — Fristen sichtbar &amp; schnellerer Start</h2><p style="margin:13px 0 4px;font-weight:600">Behoben</p><ul style="margin:0 0 6px;padding-left:20px"><li style="margin:3px 0">Akzeptierte (und von Hand eingetragene) Fristen erscheinen jetzt zuverlässig unter „Fristen&quot; — vorher konnten Datums-Formate wie 2026-07-15 oder 30.06.2026 unsichtbar bleiben.</li><li style="margin:3px 0">Schnellerer Start: die App hängt nicht mehr auf „Wiki wird geladen …&quot;, wenn iCloud das Vault-Verzeichnis gerade blockiert.</li></ul></div>]]></description>
+      <enclosure url="https://github.com/Lange-Co-Consulting/lange-knowledge-releases/releases/download/v0.21.1/LangeKnowledge-0.21.1.zip" type="application/octet-stream" sparkle:edSignature="JsG74FZ1LzAJL2+DlPX4n8CbDUkwFHa0u3gwF6SSZujtS7IA6zsIYuKP5QgdzxfNwbw9GoDOUCM/dbHqIxskDw==" length="10995442" />
+    </item>
+    <item>
       <title>Home-Start &amp; klarer Graph</title>
       <pubDate>Thu, 11 Jun 2026 05:16:39 +0000</pubDate>
       <sparkle:version>1781154843</sparkle:version>
